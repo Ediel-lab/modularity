@@ -7,7 +7,7 @@ import { generateGreeting, farewell } from './utils/greetings';
 import { add, divide } from './utils/math';
 
 function App() {
-  const name = 'Lucas';
+  const name = 'User';
   const age = 17;
   const number = 10;
   const price = 1234.5;
